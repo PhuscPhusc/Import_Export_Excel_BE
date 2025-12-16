@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\ImportExport\\BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\migrations\\20250916112321_addcreatedatandisactivetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\migrations\\20250916112321_addcreatedatandisactivetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\dto\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\dto\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\Migrations\\20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
+              "RelativeDocumentMoniker": "BE\\Migrations\\20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\Migrations\\20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
+              "RelativeToolTip": "BE\\Migrations\\20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:31:00.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "BE\\models\\ProductModel.cs",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\models\\ProductModel.cs",
+              "RelativeToolTip": "BE\\models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:12:26.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\dto\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "BE\\dto\\CreateProductRequest.cs",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\dto\\CreateProductRequest.cs",
+              "RelativeToolTip": "BE\\dto\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:11:50.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BE\\Entities\\Product.cs",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\Entities\\Product.cs",
+              "RelativeToolTip": "BE\\Entities\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:00:26.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BE\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BE\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowGkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:19:50.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BE\\Database\\AppDbContext.cs",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "BE\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:04:14.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\Program.cs",
+              "RelativeDocumentMoniker": "BE\\Program.cs",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\Program.cs",
+              "RelativeToolTip": "BE\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:37:16.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BE.http",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\BE.http",
+              "RelativeDocumentMoniker": "BE\\BE.http",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\BE.http",
+              "RelativeToolTip": "BE\\BE.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-11T04:06:58.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\appsettings.json",
+              "RelativeDocumentMoniker": "BE\\appsettings.json",
+              "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\appsettings.json",
+              "RelativeToolTip": "BE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-11T04:05:00.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
